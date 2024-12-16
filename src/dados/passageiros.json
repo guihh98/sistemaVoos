@@ -1,0 +1,18 @@
+[
+  {
+    "codigo": "c4dc59a9-3547-4aac-8e96-4543fa308db3",
+    "nome": "teste",
+    "endereco": "rua",
+    "telefone": "123",
+    "fidelidade": false,
+    "pontosFidelidade": 0
+  },
+  {
+    "codigo": "9f63dbf9-1bf8-4014-88b4-3610369e8a2d",
+    "nome": "gui teste 2",
+    "endereco": "rua teste",
+    "telefone": "31997123130",
+    "fidelidade": false,
+    "pontosFidelidade": 0
+  }
+]
